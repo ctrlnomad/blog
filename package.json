@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-texblog",
+  "name": "sultan-blog",
   "private": false,
-  "description": "A simple, LaTeX enabled starter to properly showcase your beautifully typeset articles. Perfectly complements STEM blogs.",
+  "description": "Sultan's STEM Blog",
   "version": "0.1.0",
-  "author": "Akshat Bisht <hello@akshatbisht.com>",
+  "author": "Sultan Kenjeyev <hello@ctrlnomad.com>",
   "dependencies": {
     "@mdx-js/mdx": "^1.6.16",
     "@mdx-js/react": "^1.6.16",
@@ -65,9 +65,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaaakshat/gatsby-starter-texblog"
+    "url": "https://github.com/ctrlnomad/blog"
   },
   "bugs": {
-    "url": "https://github.com/aaaakshat/gatsby-starter-texblog/issues"
+    "url": "https://github.com/ctrlnomad/blog/issues"
   }
 }
