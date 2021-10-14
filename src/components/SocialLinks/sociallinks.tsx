@@ -7,7 +7,7 @@ import { GrGatsbyjs } from "react-icons/gr"
 
 // Edit these to add or remove social media icons.
 const socialMediaAccounts = [
-	{ id: 1, icon: FaGithub, url: "http://github.com/aaaakshat" },
+	{ id: 1, icon: FaGithub, url: "http://github.com/ctrlnomad" },
 	{
 		id: 2,
 		icon: GrGatsbyjs,
